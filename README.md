@@ -48,6 +48,4 @@ Developers can also reject tickets, stop active executions, and investigate bloc
 
 [Watch the full demo with audio on YouTube](https://www.youtube.com/watch?v=ERzVDqq-4Tw)
 
-Click the GIF preview below to watch the full demo with audio.
-
 [![Bug Spray demo preview](bug-spray-demo.gif)](https://www.youtube.com/watch?v=ERzVDqq-4Tw)
