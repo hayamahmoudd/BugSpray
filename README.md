@@ -46,4 +46,4 @@ Developers can also reject tickets, stop active executions, and investigate bloc
 
 ## Demo
 
-https://github.com/user-attachments/assets/YOUR-VIDEO-ID
+[Watch the demo](bug-spray-demo.MOV)
